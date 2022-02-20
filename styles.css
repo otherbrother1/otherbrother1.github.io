@@ -1,0 +1,148 @@
+body {
+  font-family: Montserrat;
+  background-color: #000000;
+   width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+#title {
+  background-color: #000000;
+  height: 720px;
+  background-image: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .6)),url(KUJI.jpg);
+  width: 100%;
+}
+#title_catalog{
+  background-image: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, .8)),url(wallpaper_catalog.jpg);
+  background-color: #000000;
+  width: 100%;
+  height: 720px;
+}
+
+h1 {
+  font-family: Montserrat;
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: whitesmoke;
+  position: relative;
+  text-align: center;
+}
+h2{
+  font-family:Montserrat;
+  text-align: center;
+  font-weight: 500;
+  color: whitesmoke;
+  position: relative;
+  padding: 20px;
+  text-align: center;
+  
+}
+
+h3 {
+  font-weight: bold;
+  color: whitesmoke;
+}
+
+p {
+  color: #8f8f8f;
+  padding: 50 px;
+}
+.logo1{
+  padding:1%;
+  margin-bottom: 20px;
+  border: 10px;
+  color: white;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+
+/* Navbar Section */
+
+.navbar-brand {
+  font-family: Montserrat;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.navbar {
+  padding: 0 0 4.5rem 0;
+}
+
+.nav-item {
+  padding: 0 15px;
+  font-weight: lighter;
+  font-size: 1.2rem;
+}
+.nav-register{
+  padding-left: 165%;
+  font-weight: lighter;
+  font-size: 1.2rem;
+}
+}
+
+/* Download Buttons */
+
+.download-button {
+  margin: 3% 5% 0 0;
+}
+
+/* Title image */
+
+.title-img {
+  width: 50%;
+  padding: 1%;
+  position: relative;
+  top: -10%;
+}
+
+.title-img-1 {
+  position: relative;
+  width: 49%;
+  left: 155%;
+  top: -110%;
+}
+
+/* Features */
+
+#features {
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.icon {
+  margin-bottom: 1.5rem;
+  color: #ef8172;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+.carousel-control-prev{
+  left: -9%;
+}
+.carousel-control-next{
+  right: -8%;
+}
+#footer{
+  text-align: center;
+   padding: 50px 3% 1px;
+}
+.tc-logo{
+  width: 100%;
+}
+.icon{
+  color: white;
+  margin-top: 30px;
+  margin-bottom: 5px;
+  top: 115%;
+  bottom: 1%;
+  position: relative;
+  text-align: center;
+}
+/*
+THIS IS FOR CATALOG WEB_PAGE
+*/
